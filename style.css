@@ -1,0 +1,272 @@
+@media only screen and (max-width: 767px){
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.head0{
+  border: 1px solid darkgreen;
+  margin-bottom: 2px;
+  padding: 20px;
+  font-size: 40px;
+  text-align: center;
+  background-color: darkgreen;
+  color: white;
+}
+
+.Mr{
+  color: lightgreen;
+}
+
+.head1{
+  border: 1px solid darkolivegreen;
+  background-color: darkolivegreen;
+  
+}
+li{
+  display: block;
+  margin-bottom: 10px;
+  width: 70px;
+  height: 20px;
+}
+span{
+  margin-left: 6px;
+  border: ;
+  padding: 3px;
+  background-color: olive;
+  width:  70px;
+  border-radius: 3px;
+}
+a{
+  text-decoration: none;
+ color: white;
+  
+}
+a:hover{
+color: black  ;
+  background-color: lightyellow;
+  transition: ;
+  border-width: 10px;
+border-height: 4px;
+}
+
+img{
+  border: 1px solid green;
+  margin-top: 3px;
+  width: 337px;
+  height:  220px;
+  margin-bottom: 1px;
+}
+.img2{
+  margin-top: 1px;
+}
+input{
+  margin-left: 120px;
+  width: 120px;
+  height: 30px;
+  border-radius: 28px;
+  background-color: lightgreen;
+  border-color: darkgreen;
+  box-shadow: 2px 2px 3px grey;
+}
+.inline-block{
+  margin-top: 10px;
+    display: inline-block;
+    width: 270px;
+    height: 220px;
+    border: 1px solid lightgreen;
+    border-radius: 15px;
+   margin-left: 30px;
+  box-shadow: 2px 3px 4px grey;
+  background-color: lightgreen;
+  padding: 10px;
+}
+
+.Se{
+  font-size: 27px;
+  text-align: center;
+  margin-bottom: 3px;
+}
+.Render{
+  margin-top: 2px;
+  font-size: 22px;
+  text-align: justify;
+  padding: 10px;
+}
+.Re2{
+  font-size: 22px;
+  padding: 3px;
+  text-align: justify;
+  margin-bottom: 1px;
+}
+.input2{
+  margin-left: 65px;
+  margin-top: 1px;
+  background-color: white;
+ font-size: 15px; 
+  color: darkgreen;
+  border-color: darkgreen;
+}
+
+.Contact{
+  background-color: darkolivegreen;
+  margin-top: 10px;
+  border: 1px solid darkolivegreen;
+  padding: 3px;
+  padding: 10px;
+  color: lightyellow;
+  margin-bottom: 60px;
+  
+}
+  footer{
+  color: white;
+  background-color: darkgreen;
+  margin-top: 40px;
+  border: 1px solid darkgreen;
+  padding: 1em;
+  text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+  
+  
+}
+
+@media only screen and (min-width: 768px){
+  body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .head0{
+  border: 1px solid darkgreen;
+  margin-bottom: 2px;
+  padding: 20px;
+  font-size: 110px;
+  text-align: center;
+  background-color: darkgreen;
+  color: white;
+}
+
+.Mr{
+  color: lightgreen;
+}
+
+.head1{
+  border: 1px solid darkolivegreen;
+  background-color: darkolivegreen;
+  
+}
+li{
+  display: block;
+  margin-bottom: 10px;
+  width: 70px;
+  height: 50px;
+  font-size: 40px;
+}
+span{
+  margin-left: 6px;
+  border: ;
+  padding: 3px;
+  background-color: olive;
+  width:  70px;
+  border-radius: 3px;
+  font-size: 40px
+}
+a{
+  text-decoration: none;
+ color: white;
+  
+}
+a:hover{
+color: black  ;
+  background-color: lightyellow;
+  transition: ;
+  border-width: 10px;
+border-height: 4px;
+}
+
+img{
+  border: 1px solid green;
+  margin-top: 3px;
+  width: 925px;
+  height:  450px;
+  margin-bottom: 1px;
+ margin-left: 20px;
+}
+.img2{
+  margin-top: 1px;
+}
+input{
+  margin-left: 120px;
+  width: 700px;
+  height: 100px;
+  border-radius: 28px;
+  background-color: lightgreen;
+  border-color:  darkgreen;
+  box-shadow: 2px 2px 3px grey;
+  font-size: 50px;
+  margin-left: 150px;
+}
+.inline-block{
+  margin-top: 10px;
+    display: inline-block;
+    width: 800px;
+    height: 510px;
+    border: 1px solid lightgreen;
+    border-radius: 15px;
+   margin-left: 70px;
+  box-shadow: 2px 5px 4px grey;
+  background-color: lightgreen;
+  padding: 20px;
+}
+
+.Se{
+  font-size: 70px;
+  text-align: center;
+  margin-bottom: 3px;
+}
+.Render{
+  margin-top: 2px;
+  font-size: 58px;
+  text-align: justify;
+  padding: 20px;
+}
+.Re2{
+  font-size: 60px;
+  padding: 3px;
+  text-align: justify;
+  margin-bottom: 1px;
+}
+.input2{
+  margin-left: 65px;
+  margin-top: 1px;
+  background-color: lightgreen;
+ font-size: 50px; 
+  color: darkgreen;
+  border-color: darkgreen;
+}
+
+.Contact{
+  background-color: darkolivegreen;
+  margin-top: 10px;
+  border: 1px solid darkolivegreen;
+  padding: 3px;
+  padding: 10px;
+  color: lightyellow;
+  font-size: 50px;
+  margin-bottom: 190px;
+}
+footer{
+  color: white;
+  background-color: darkgreen;
+  margin-top: 40px;
+  border: 1px solid darkgreen;
+  padding: 50px;
+  text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+  font-size: 60px;
+  
+}
+  
+  
+}
